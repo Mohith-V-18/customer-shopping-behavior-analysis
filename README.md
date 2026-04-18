@@ -1,10 +1,10 @@
-# 🛍️ Customer Shopping Behavior Analysis
+#  Customer Shopping Behavior Analysis
 
 An end-to-end data analysis project on 3,900 retail transactions — covering data cleaning in **Python**, business queries in **PostgreSQL**, and an interactive dashboard in **Power BI**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer shopping behavior to uncover insights into:
 - Spending patterns across gender and age groups
@@ -14,7 +14,7 @@ This project analyzes customer shopping behavior to uncover insights into:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 | Attribute | Details |
 |-----------|---------|
@@ -27,7 +27,7 @@ This project analyzes customer shopping behavior to uncover insights into:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -39,7 +39,7 @@ This project analyzes customer shopping behavior to uncover insights into:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 customer-shopping-behavior-analysis/
@@ -58,7 +58,7 @@ customer-shopping-behavior-analysis/
 
 ---
 
-## ⚙️ Python — Data Preparation
+##  Python — Data Preparation
 
 Steps performed in `customer_shopping.ipynb`:
 
@@ -73,7 +73,7 @@ Steps performed in `customer_shopping.ipynb`:
 
 ---
 
-## 🔍 SQL — Business Questions
+##  SQL — Business Questions
 
 | # | Question | Key Result |
 |---|----------|-----------|
@@ -90,7 +90,7 @@ Steps performed in `customer_shopping.ipynb`:
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 **KPIs:** 3,900 customers · $59.76 avg purchase · 3.75 avg rating · 27% subscription rate
 
@@ -100,7 +100,7 @@ Steps performed in `customer_shopping.ipynb`:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - Male customers generate **~2.1× more revenue** than female customers
 - **79.9% of customers are Loyal** — strong retention base
@@ -111,7 +111,7 @@ Steps performed in `customer_shopping.ipynb`:
 
 ---
 
-## ✅ Business Recommendations
+##  Business Recommendations
 
 | Priority | Recommendation |
 |----------|---------------|
@@ -123,7 +123,7 @@ Steps performed in `customer_shopping.ipynb`:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1. Clone the repo**
 ```bash
